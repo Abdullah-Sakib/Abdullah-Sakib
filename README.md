@@ -53,7 +53,10 @@
 </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/>
- </a>
+</a>
+<a href="https://github.com/" target="_blank" rel="noreferrer">
+   <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" width="50" height="50"/>
+</a>
 </p>
 
 
