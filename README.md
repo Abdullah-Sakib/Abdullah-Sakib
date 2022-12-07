@@ -11,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abdullah-sakib-266361244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdullah-sakib-266361244/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/abdullah.sakib.77715" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/abdullah.sakib.77715" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abdullah-sakib-266361244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah-sakib-266361244" height="30" width="40" /></a>
+<a href="https://fb.com/abdullah.sakib.77715" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdullah.sakib.77715" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
