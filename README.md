@@ -27,6 +27,12 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+   <img src="https://i.ibb.co/4YtTn2F/html-b7817ea6.png" alt="html5" width="50" height="50"/>
+</a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+   <img src="https://i.ibb.co/TbHdsTY/css-a548dfce.png" alt="css3" width="50" height="50"/>
+</a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
    <img src="https://i.ibb.co/1vVkttF/js-8b9ef41b.png" alt="javascript" width="50" height="50"/>
 </a>
@@ -39,24 +45,20 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
    <img src="https://i.ibb.co/DK8LpFp/node-8852d2b9.png" alt="nodejs" width="50" height="50"/>
 </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-   <img src="https://i.ibb.co/h9TDRGt/Bootstrap-9034d754.png" alt="bootstrap" width="50" height="50"/>
- </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-   <img src="https://i.ibb.co/TbHdsTY/css-a548dfce.png" alt="css3" width="50" height="50"/>
-</a>
 <a href="https://expressjs.com" target="_blank" rel="noreferrer">
    <img src="https://i.ibb.co/M5BpK7y/download-removebg-preview.png" alt="express" width="50" height="50"/>
 </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-   <img src="https://i.ibb.co/4YtTn2F/html-b7817ea6.png" alt="html5" width="50" height="50"/>
-</a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
    <img src="https://i.ibb.co/tb8Tyws/Mongo-DB-065a8e53.png" alt="mongodb" width="50" height="50"/>
+</a>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+   <img src="https://i.ibb.co/h9TDRGt/Bootstrap-9034d754.png" alt="bootstrap" width="50" height="50"/>
 </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
    <img src="https://i.ibb.co/F7QCr80/Tailwind-85c2c5f2.png" alt="tailwind" width="50" height="50"/>
 </a>
+
+
 <a href="https://github.com/" target="_blank" rel="noreferrer">
    <img src="https://i.ibb.co/CVyHHjy/github-5f9f986d.png" alt="github" width="50" height="50"/>
 </a>
