@@ -2,8 +2,6 @@
 <h1 align="center">Hi, I'm Abdullah Sakib</h1>
 <h3 align="center">A passionate MERN stack developer.</h3>
 
-<img width="400" align="right" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" alt="image"/> 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah-sakib&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah-sakib" /> </p>
 
 - 💬 Ask me about **React, Next.js, and JavaScript**
