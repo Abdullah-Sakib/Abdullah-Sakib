@@ -94,7 +94,7 @@
    <img src="https://i.ibb.co/pz35JSX/download.png" alt="netlify" width="50" height="50"/>
 </a>
 <a href="https://vercel.com/" target="_blank" rel="noreferrer">
-   <img src="https://i.ibb.co/0G80tzb/download.png" alt="vercel" width="60" height="50"/>
+   <img src="https://i.ibb.co/0G80tzb/download.png" alt="vercel" width="75" height="50"/>
 </a>
 
 
