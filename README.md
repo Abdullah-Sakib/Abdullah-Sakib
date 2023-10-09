@@ -34,8 +34,19 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
    <img src="https://i.ibb.co/48d0GWD/type-Script-32a1acbe.jpg" alt="typescript" width="50" height="50"/>
 </a>
+
+   
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
    <img src="https://i.ibb.co/myH67FF/react-522a07bd.png" alt="react" width="50" height="50"/>
+</a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+   <img src="https://i.ibb.co/6wNNnDt/next-180c0d5d.png" alt="next.js" width="50" height="50"/>
+</a>
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+   <img src="https://i.ibb.co/YBYQj12/redux-f24d7a64.png" alt="redux" width="50" height="50"/>
+</a>
+<a href="https://redux-toolkit.js.org/rtk-query/overview" target="_blank" rel="noreferrer">
+   <img src="https://i.ibb.co/fp3S5wp/rtk-query-df6c6e5c.jpg" alt="rtk-query" width="50" height="50"/>
 </a>
 
    
@@ -57,6 +68,9 @@
 <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
    <img src="https://i.ibb.co/6W3Nk7x/download.png" alt="prisma" width="50" height="50"/>
 </a>
+<a href="https://jwt.io/" target="_blank" rel="noreferrer">
+   <img src="https://i.ibb.co/z5WJ4jV/jwt-96725df5.png" alt="jwt" width="50" height="50"/>
+</a>
 
    
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
@@ -76,6 +90,17 @@
 </a>
 
 
+<a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
+   <img src="https://i.ibb.co/pz35JSX/download.png" alt="netlify" width="50" height="50"/>
+</a>
+<a href="https://vercel.com/" target="_blank" rel="noreferrer">
+   <img src="https://i.ibb.co/0G80tzb/download.png" alt="vercel" width="60" height="50"/>
+</a>
+
+
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+   <img src="https://i.ibb.co/kghBW36/download.png" alt="vscode" width="50" height="50"/>
+</a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
    <img src="https://i.ibb.co/K2ZjDCh/download.png" alt="git" width="50" height="50"/>
 </a>
