@@ -37,7 +37,7 @@
    <img src="https://i.ibb.co/1vVkttF/js-8b9ef41b.png" alt="javascript" width="50" height="50"/>
 </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-   <img src="https://i.ibb.co/48d0GWD/type-Script-32a1acbe.jpg" alt="typescript" width="50" height="50"/>
+   <img src="https://i.ibb.co/48d0GWD/type-Script-32a1acbe.jpg" alt="typescript" width="50" height="50" style="border-radius:5px;"/>
 </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
    <img src="https://i.ibb.co/myH67FF/react-522a07bd.png" alt="react" width="50" height="50"/>
