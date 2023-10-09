@@ -72,7 +72,7 @@
    <img src="https://i.ibb.co/558YdtF/download.png" alt="ant.design" width="50" height="50"/>
 </a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-   <img src="https://i.ibb.co/h9TDRGt/Bootstrap-9034d754.png" alt="bootstrap" width="50" height="50"/>
+   <img src="https://i.ibb.co/h9TDRGt/Bootstrap-9034d754.png" alt="bootstrap" width="60" height="50"/>
 </a>
 
 
