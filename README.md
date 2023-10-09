@@ -49,7 +49,7 @@
    <img src="https://i.ibb.co/tb8Tyws/Mongo-DB-065a8e53.png" alt="mongodb" width="50" height="50"/>
 </a>
 <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer">
-   <img src="https://i.ibb.co/NsFjc2M/mongoose-d46e329f.png" alt="mongoosejs" width="50" height="50"/>
+   <img src="https://i.ibb.co/NsFjc2M/mongoose-d46e329f.png" alt="mongoosejs" width="70" height="50"/>
 </a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
    <img src="https://i.ibb.co/rwYNXvm/download-removebg-preview-1.png" alt="postgreSQL" width="50" height="50"/>
