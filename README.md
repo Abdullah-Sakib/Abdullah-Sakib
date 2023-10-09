@@ -46,7 +46,7 @@
    <img src="https://i.ibb.co/TbHdsTY/css-a548dfce.png" alt="css3" width="50" height="50"/>
 </a>
 <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-   <img src="https://i.ibb.co/LgGYbJP/express-0ede365e.png" alt="express" width="50" height="50"/>
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNwcf-fqaOYwACq3r5A0lKPvA6UdtEE64PYA&usqp=CAU" alt="express" width="50" height="50"/>
 </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
    <img src="https://i.ibb.co/4YtTn2F/html-b7817ea6.png" alt="html5" width="50" height="50"/>
@@ -58,7 +58,7 @@
    <img src="https://i.ibb.co/F7QCr80/Tailwind-85c2c5f2.png" alt="tailwind" width="50" height="50"/>
 </a>
 <a href="https://github.com/" target="_blank" rel="noreferrer">
-   <img src="https://i.ibb.co/LgGYbJP/express-0ede365e.png" alt="github" width="50" height="50"/>
+   <img src="https://i.ibb.co/CVyHHjy/github-5f9f986d.png" alt="github" width="50" height="50"/>
 </a>
 </p>
 
