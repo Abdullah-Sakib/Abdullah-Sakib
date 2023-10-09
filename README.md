@@ -42,6 +42,8 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
    <img src="https://i.ibb.co/myH67FF/react-522a07bd.png" alt="react" width="50" height="50"/>
 </a>
+
+   
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
    <img src="https://i.ibb.co/DK8LpFp/node-8852d2b9.png" alt="nodejs" width="50" height="50"/>
 </a>
@@ -51,17 +53,33 @@
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
    <img src="https://i.ibb.co/tb8Tyws/Mongo-DB-065a8e53.png" alt="mongodb" width="50" height="50"/>
 </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-   <img src="https://i.ibb.co/h9TDRGt/Bootstrap-9034d754.png" alt="bootstrap" width="50" height="50"/>
-</a>
+
+   
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
    <img src="https://i.ibb.co/F7QCr80/Tailwind-85c2c5f2.png" alt="tailwind" width="50" height="50"/>
 </a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
+   <img src="https://i.ibb.co/R7rfLhg/sass-83b85e2e.png" alt="sass" width="50" height="50"/>
+</a>
+<a href="https://mui.com/" target="_blank" rel="noreferrer">
+   <img src="https://i.ibb.co/f9NP7PH/download.png" alt="mui" width="50" height="50"/>
+</a>
+<a href="https://ant.design/" target="_blank" rel="noreferrer">
+   <img src="https://i.ibb.co/558YdtF/download.png" alt="ant.design" width="50" height="50"/>
+</a>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+   <img src="https://i.ibb.co/h9TDRGt/Bootstrap-9034d754.png" alt="bootstrap" width="50" height="50"/>
+</a>
 
 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+   <img src="https://i.ibb.co/K2ZjDCh/download.png" alt="git" width="50" height="50"/>
+</a>
 <a href="https://github.com/" target="_blank" rel="noreferrer">
    <img src="https://i.ibb.co/CVyHHjy/github-5f9f986d.png" alt="github" width="50" height="50"/>
 </a>
+
+
 </p>
 
 <p align="left" >&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=abdullah-sakib&show_icons=true&locale=en&theme=dark" alt="abdullah-sakib" /></p>
