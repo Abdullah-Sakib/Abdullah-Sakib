@@ -59,7 +59,7 @@
    <img src="https://i.ibb.co/F7QCr80/Tailwind-85c2c5f2.png" alt="tailwind" width="50" height="50"/>
 </a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-   <img src="https://i.ibb.co/R7rfLhg/sass-83b85e2e.png" alt="sass" width="50" height="50"/>
+   <img src="https://i.ibb.co/6WWsDHc/sass-83b85e2e-removebg-preview.png" alt="sass" width="50" height="50"/>
 </a>
 <a href="https://mui.com/" target="_blank" rel="noreferrer">
    <img src="https://i.ibb.co/f9NP7PH/download.png" alt="mui" width="50" height="50"/>
