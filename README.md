@@ -99,7 +99,7 @@
 
 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-   <img src="https://i.ibb.co/kghBW36/download.png" alt="vscode" width="50" height="50"/>
+   <img src="https://i.ibb.co/W54j0gy/download-removebg-preview-2.png" alt="vscode" width="50" height="50"/>
 </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
    <img src="https://i.ibb.co/K2ZjDCh/download.png" alt="git" width="50" height="50"/>
