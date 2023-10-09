@@ -6,17 +6,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah-sakib&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah-sakib" /> </p>
 
-- 💬 Ask me about **JavaScript && React**
+- 💬 Ask me about **React, Next.js, and JavaScript**
 
-- 🌱 I’m currently learning **Next.js && TypeScript && Redux**
+- 🌱 I’m currently learning **SQL**
 
-- 📫 How to reach me **abdullahsakib888@gmail.com**
+- 📫 Reach me **abdullahsakib888@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/Abdullah-Sakib" target="_blank">
-   <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="https://linkedin.com/in/abdullah-sakib-266361244" target="_blank">
    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
