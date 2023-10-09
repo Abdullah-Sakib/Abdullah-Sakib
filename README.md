@@ -30,6 +30,9 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
 </a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+   <img src="https://ibb.co/6HBqxYp" alt="javascript" width="50" height="50"/>
+</a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
 </a>
