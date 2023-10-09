@@ -88,6 +88,9 @@
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
    <img src="https://i.ibb.co/h9TDRGt/Bootstrap-9034d754.png" alt="bootstrap" width="60" height="50"/>
 </a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+   <img src="https://i.ibb.co/zVGzkj7/Figma-d9fad4a5.png" alt="figma" width="50" height="50"/>
+</a>
 
 
 <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
