@@ -1,4 +1,4 @@
-![MasterHead](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGIxYzVtMHpsNml0YndlN2RmOWFwdnQyYTh6cGtoZ3Vqa214YnB5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NHvv0Bo3oGq1eTBDd1/giphy.gif)
+![MasterHead](https://i.ibb.co/mtpy8ZJ/JS.gif)
 
 <h1 align="center">🖥️ Tech Explorer Building Digital Worlds 🌍</h1>
 <h3 align="center">Transforming Ideas into Digital Reality</h3>
