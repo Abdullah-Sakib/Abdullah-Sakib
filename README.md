@@ -1,4 +1,4 @@
-![MasterHead](https://camo.githubusercontent.com/bdd38b0c65d47c7cba62b60617adffedb3a48d1ac6e77501b990fffb1e52815c/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f333230302f312a4f463078454d6b5742762d36397a766d4e73365244512e676966)
+![MasterHead](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGIxYzVtMHpsNml0YndlN2RmOWFwdnQyYTh6cGtoZ3Vqa214YnB5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NHvv0Bo3oGq1eTBDd1/giphy.gif)
 
 <h1 align="center">🖥️ Tech Explorer Building Digital Worlds 🌍</h1>
 <h3 align="center">Transforming Ideas into Digital Reality</h3>
