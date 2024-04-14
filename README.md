@@ -1,4 +1,4 @@
-![MasterHead](https://i.ibb.co/mtpy8ZJ/JS.gif)
+![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*SazB8drLx74W-bFBqag9zA.gif)
 
 <h1 align="center">🖥️ Tech Explorer Building Digital Worlds 🌍</h1>
 <h3 align="center">Transforming Ideas into Digital Reality</h3>
