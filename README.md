@@ -13,7 +13,7 @@
 
 <h3 align="left">Get in Touch:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/abdullah-sakib-266361244" target="_blank">
+<a href="https://www.linkedin.com/in/abdullah-sakib/" target="_blank">
    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://fb.com/abdullah.sakib.77715" target="_blank">
